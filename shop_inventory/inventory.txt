@@ -1,1 +1,1 @@
-1,rerweq,43,tegfe,54
+1,bus,2300000,volvo,6
